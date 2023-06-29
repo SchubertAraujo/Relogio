@@ -12,9 +12,7 @@
 > 
 > <img src="https://img.shields.io/static/v1?label=Status&message=Finalizado&color=green&labelColor=575757&style=flat" />
 
-## Dificuldades enfrentadas
-
->   Os ponteiros em certo momento começavam a girar no próprio eixo. 
->   Como o código estava sendo criado por mim sem cópias, para aprendizado 
->   tive que pesquisar bastante no w3schools até descobrir a propriedade 'transform-origin' 
->   que teria que ser setada no 'bottom'.
+## DIFICULDADES ENFRENTADAS
+- Os ponteiros em certo momento começavam a girar no próprio eixo. 
+- Como o código estava sendo criado por mim sem cópias, para aprendizado
+- tive que pesquisar bastante no w3schools até descobrir a propriedade 'transform-origin' que teria que ser setada no 'bottom'.
